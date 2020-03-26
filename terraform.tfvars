@@ -2,7 +2,7 @@
 zero_prefix = "ha"
 zero_namespace = "dgraph"
 zero_replicas = 3
-zero_persistence = false
+zero_persistence = true
 zero_storage_size = 5
 zero_pod_anti_affinity = false
 
